@@ -1,0 +1,199 @@
+/* Corp page */
+
+.bloc_page .bordure
+{
+	
+	margin:0px;
+	
+	text-align: justify;	
+
+
+}
+
+
+
+
+
+.bordure
+{	
+
+	background: #039BE5;
+
+	
+}
+
+
+
+
+.bordure header
+{
+
+}
+
+
+
+.bordure .imgMoi
+{
+	margin-top: 60px;
+	width: 50%;
+	margin-left: 25%;
+	border-radius: 50%;
+	
+	
+	-moz-box-shadow: 1px 1px 8px grey; 
+  	-webkit-box-shadow: 1px 1px 8px grey; 
+  	box-shadow: 1px 1px 8px grey;
+	
+
+}
+
+
+
+
+.bordure h2
+{
+	color : #039BE5;
+	font-size: 1.7em;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #5dcf34;
+
+
+
+}
+
+.bordure p
+{
+	margin-top: 20px;
+}
+
+.bordure .contact 
+{
+	margin-top: 40px;
+	height: 350px;
+}
+
+
+.bordure .contact p
+{
+	margin-left: 40px;
+
+}
+
+.bordure .Me
+{
+	margin-top: 60px;
+	height: 700px;
+}
+
+.bordure .Me p 
+{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+
+
+.bordure .loisirs
+{
+margin-top: 300px;
+}
+
+.futbol , .swimmer , .football
+{
+
+
+}
+
+.bordure .sport
+{
+	margin-top: 30px;
+}
+
+.bordure .fas
+{
+	color: #5dcf34;						/* A revoir */
+}
+
+
+
+
+
+
+
+
+
+.sectionPrincipale em
+{
+	font-weight: normal;
+	color: #039BE5 ;
+}
+
+.sectionPrincipale .fas , .sectionPrincipale .far
+{
+	color: #039BE5;
+	margin-right: 20px;
+}
+
+.sectionPrincipale header
+{
+	margin-top: 100px;
+}
+
+.sectionPrincipale header .prenom
+{
+	font-size: 4em;
+	text-transform: uppercase;
+	color: #090909;
+}
+
+.sectionPrincipale header p
+{
+	font-weight: bold;
+	font-size: 1.3em;
+	color: #4d4d4d;
+}
+
+.sectionPrincipale .spans
+{
+	border-bottom: 2px solid #039BE5;
+}
+
+.sectionPrincipale .formation
+{
+	margin-top: 130px;
+}
+
+.sectionPrincipale h2
+{
+	font-size: 2em;
+	margin-top: 40px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #039BE5;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #4b4b4b;
+}
+
+.sectionPrincipale h3
+{
+	font-weight: bold;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	color: #515151;
+}
+
+.sectionPrincipale ul , .sectionPrincipale p
+{
+	color: #4b4b4b;
+}
+
+.sectionPrincipale .formation .sousFormation , .sectionPrincipale .recommandation .sousRecommandation , .sectionPrincipale .experiencePro .sousExperiencePro
+{
+	margin-top: 30px;
+}
+
+.bas 
+{
+	margin-top: 50px;
+}
