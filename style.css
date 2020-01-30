@@ -5,7 +5,8 @@
 	
 	margin:0px;
 	text-align: justify;	
-	background: #4D95C8;
+	background: #B2EBF2;
+	
 
 }
 
@@ -31,11 +32,11 @@
 
 .bordure h2
 {
-	color : #039BE5;
+	color : #ffffff;
 	font-size: 1.7em;
 	text-align: center;
 	text-transform: uppercase;
-	background-color: #FFCC02;
+	background-color: #039BE5;
 
 
 
@@ -43,8 +44,13 @@
 
 .bordure p
 {
+	color : #090909;
 	margin-top: 20px;
 }
+
+
+
+
 
 .bordure .contact 
 {
@@ -75,7 +81,7 @@
 
 .bordure .loisirs
 {
-	margin-top: 200px;
+	margin-top: 200px;		
 }
 
 
@@ -87,7 +93,13 @@
 
 .bordure .fas
 {
-	color: #5dcf34;						/* A revoir */
+	color: #039BE5;	
+	/*
+	padding: 14px;			
+	border : 1px solid #039BE5;
+	border-radius: 50%;
+	*/
+
 }
 
 
@@ -100,11 +112,12 @@
 
 .sectionPrincipale em
 {
+	font-style: normal;
 	font-weight: normal;
 	color: #039BE5 ;
 }
 
-.sectionPrincipale .fas , .sectionPrincipale .far
+.sectionPrincipale h2 .fas , .sectionPrincipale h2 .far
 {
 	color: #039BE5;
 	margin-right: 20px;
@@ -119,7 +132,7 @@
 {
 	font-size: 4em;
 	text-transform: uppercase;
-	color: #090909;
+	color: #424242;
 }
 
 .sectionPrincipale header p
@@ -147,7 +160,7 @@
 	border-bottom: 2px solid #039BE5;
 	font-weight: bold;
 	text-transform: uppercase;
-	color: #4b4b4b;
+	color: #424242;
 }
 
 .sectionPrincipale h3
@@ -160,7 +173,7 @@
 
 .sectionPrincipale h4
 {
-	
+	text-transform: uppercase;
 	font-size: 1.1em;
 	
 }
@@ -180,9 +193,10 @@
 	margin-top: 50px;
 }
 
-
-
-
+.farond
+{
+	color: #B2EBF2;
+}
 
 
 
