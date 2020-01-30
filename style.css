@@ -1,32 +1,11 @@
-/* Corp page */
+
 
 .bloc_page .bordure
 {
 	
 	margin:0px;
-	
 	text-align: justify;	
-
-
-}
-
-
-
-
-
-.bordure
-{	
-
 	background: #039BE5;
-
-	
-}
-
-
-
-
-.bordure header
-{
 
 }
 
@@ -70,7 +49,7 @@
 .bordure .contact 
 {
 	margin-top: 40px;
-	height: 350px;
+	
 }
 
 
@@ -96,14 +75,10 @@
 
 .bordure .loisirs
 {
-margin-top: 300px;
+	margin-top: 200px;
 }
 
-.futbol , .swimmer , .football
-{
 
-
-}
 
 .bordure .sport
 {
@@ -183,6 +158,13 @@ margin-top: 300px;
 	color: #515151;
 }
 
+.sectionPrincipale h4
+{
+	
+	font-size: 1.1em;
+	
+}
+
 .sectionPrincipale ul , .sectionPrincipale p
 {
 	color: #4b4b4b;
@@ -197,3 +179,107 @@ margin-top: 300px;
 {
 	margin-top: 50px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 991px){
+
+	.bordure h2
+{
+	font-size: 1.5em;
+}
+
+.bloc_page .bordure
+{
+	text-align: left;
+}
+
+.bordure .loisirs
+{
+	margin-top: 500px;
+}
+
+
+
+	.sectionPrincipale header .prenom
+{
+	font-size: 1.5em;	
+}
+
+	.sectionPrincipale h2
+{
+	font-size: 1.5em;
+}
+
+	.sectionPrincipale h3
+{
+	
+	font-size: 1.1em;
+	
+}
+
+.sectionPrincipale h4
+{
+	
+	font-size: 1em;
+	
+}
+
+}
+
+
+@media(max-width:767px){
+
+p
+{
+	word-wrap: break-word;
+}
+
+.bordure .contact
+{
+	text-align: left;
+}
+
+.bordure .Me p 
+{
+	font-size: 0.8em;
+	margin: 0;
+	
+}
+
+
+section p , section ul , footer p
+{
+font-size: 0.8em;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
