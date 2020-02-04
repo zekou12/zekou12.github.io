@@ -1,8 +1,10 @@
-
+.bloc_page
+{
+	font-family:  Roboto, 'Open Sans', sans-serif;
+}
 
 .bloc_page .bordure
 {
-	
 	margin:0px;
 	text-align: justify;	
 	background: #B2EBF2;
@@ -108,7 +110,13 @@
 
 
 
+.sectionPrincipale h1
+{
+	font-style: normal;
+	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
 
+}
 
 .sectionPrincipale em
 {
@@ -259,7 +267,7 @@
 
 @media(max-width:767px){
 
-p
+p, 
 {
 	word-wrap: break-word;
 }
