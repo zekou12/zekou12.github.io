@@ -95,13 +95,8 @@
 
 .bordure .fas
 {
-	color: #039BE5;	
-	/*
-	padding: 14px;			
-	border : 1px solid #039BE5;
-	border-radius: 50%;
-	*/
-
+	color: #039BE5;
+	font-size: 50px;	
 }
 
 #bordureB 
@@ -263,6 +258,10 @@
 	
 	font-size: 1em;
 	
+}
+.bordure .fas
+{
+	font-size: 30px;
 }
 
 }
