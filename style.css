@@ -20,12 +20,7 @@
 	width: 50%;
 	margin-left: 25%;
 	border-radius: 50%;
-	
-	
-	-moz-box-shadow: 1px 1px 8px grey; 
-  	-webkit-box-shadow: 1px 1px 8px grey; 
-  	box-shadow: 1px 1px 8px grey;
-	
+	border: 3px solid rgba(155, 209, 216, 0.733)
 
 }
 
